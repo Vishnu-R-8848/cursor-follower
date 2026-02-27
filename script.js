@@ -14,7 +14,7 @@ h1.addEventListener("mouseenter", () => {
 });
 
 h1.addEventListener("mouseleave", () => {
-    cursor.style.height = 50 + "px";
-    cursor.style.width = 50 + "px";
+    cursor.style.height = 25 + "px";
+    cursor.style.width = 25 + "px";
     cursor.style.opacity = "1";
 });
